@@ -1,6 +1,18 @@
+# 🦀Rusty Portfolio Website ver. 3
 
-https://youtu.be/xV7S8BhIeBo?t=4517
-https://youtu.be/xV7S8BhIeBo?t=5339
+Stack: CSS, SCSS, HTML, Javascript
+Learning Highlights: 
+- Animation
+- Dark/light mode
+
+For future improvement:
+- Responsive UX
+
+[Visit website](https://rusty-portfolio-ver03.netlify.app/)
+<a href="https://rusty-portfolio-ver03.netlify.app/" target="_blank">Visit website</a>
+
+https://youtu.be/xV7S8BhIeBo?t=4517  
+https://youtu.be/xV7S8BhIeBo?t=5339  
 
 
 ## Resources used
